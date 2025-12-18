@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "amen",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-18T18:53:02.863258Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line)",
+      "artist": "Chase Rice",
+      "has_synced": true,
+      "path": "select/01_Drinkin'_Beer._Talkin'_God._Amen._(feat._Florida_Georgia_Line)_Chase_Rice.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line)",
+      "artist": "Chase Rice",
+      "has_synced": true,
+      "path": "select/02_Drinkin'_Beer._Talkin'_God._Amen._(feat._Florida_Georgia_Line)_Chase_Rice.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Amen",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/03_Amen_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Amen Kind of Love",
+      "artist": "Daryle Singletary",
+      "has_synced": true,
+      "path": "select/04_Amen_Kind_of_Love_Daryle_Singletary.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Amen Kind of Love (Album Version)",
+      "artist": "Daryle Singletary",
+      "has_synced": true,
+      "path": "select/05_Amen_Kind_of_Love_(Album_Version)_Daryle_Singletary.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Amen to That",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/06_Amen_to_That_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Amen To That",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/07_Amen_To_That_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forever And Ever, Amen",
+      "artist": "Josh Turner feat. Randy Travis",
+      "has_synced": false,
+      "path": "select/08_Forever_And_Ever,_Amen_Josh_Turner_feat._Randy_Travis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forever And Ever, Amen",
+      "artist": "Josh Turner",
+      "has_synced": true,
+      "path": "select/09_Forever_And_Ever,_Amen_Josh_Turner.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Forever And Ever, Amen",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/10_Forever_And_Ever,_Amen_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Forever and Ever, Amen",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/11_Forever_and_Ever,_Amen_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Without End, Amen",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/12_Love_Without_End,_Amen_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Without End, Amen (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/13_Love_Without_End,_Amen_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Without End, Amen (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/14_Love_Without_End,_Amen_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Woman, Amen",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/15_Woman,_Amen_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Amen HQ",
+      "artist": "Amen Andrews",
+      "has_synced": false,
+      "path": "select/16_Amen_HQ_Amen_Andrews.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Black Jesus + Amen Fashion",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/17_Black_Jesus_+_Amen_Fashion_Lady_Gaga.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "amen",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_amen_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "amen",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_amen_米津玄師.txt"
+    }
+  ]
+}
