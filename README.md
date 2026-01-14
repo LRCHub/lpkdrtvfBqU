@@ -1,4 +1,4 @@
-# Kenshi Yonezu – amen
+# 米津玄師 – amen
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
