@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "amen",
-  "base_artist": "Kenshi Yonezu",
-  "createdAt": "2025-12-18T18:53:02.863258Z",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-01-14T00:48:01.706600Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,14 +147,6 @@
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_amen_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "amen",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_02_amen_米津玄師.txt"
     }
   ]
 }
